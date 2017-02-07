@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. Go to https://manage.auth0.com/#/clients and create a single-page application client with OIDC Conformant mode enabled
+1. Go to https://manage.auth0.com/#/clients and create a single-page application client.
 2. Add `http://localhost:3000` and `http://localhost:3000/callback.html` as allowed callback URLs
 3. Enter your Auth0 domain and client ID in the [`auth0-variables.js`](/auth0-variables.js) file.
 
